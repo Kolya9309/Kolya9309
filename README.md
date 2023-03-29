@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kolya9309 and i work as a product manager in local russian bank (albank.ru)
+- 👋 Hi, I’m @Kolya9309 and i work as a product manager in Eurasian bank (KZ)
 - 
 - 👀 I’m interested in Data and product analytics
 - 🌱 I’m learning SQL and Python
